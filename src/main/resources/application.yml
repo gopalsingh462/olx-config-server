@@ -9,5 +9,5 @@ spring:
         git:
           uri: https://github.com/gopalsingh462/olx-config
           username: gopalsingh462
-          password: g9602105362
+          password: xxxx
           clone-on-start: true
